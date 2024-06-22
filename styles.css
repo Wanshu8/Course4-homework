@@ -1,0 +1,26 @@
+
+#sidebar {
+  background-color: purple;
+  color: white;
+}
+
+#sidebar .form-group input, 
+#sidebar .form-group select, 
+#sidebar .form-group .slider {
+  background-color: purple;
+  color: white;
+  border-color: white;
+}
+
+#sidebar .form-group .slider .slider-handle {
+  background-color: white;
+}
+
+#sidebar .form-group .slider .slider-bar {
+  background-color: white;
+}
+
+#sidebar .form-group label {
+  color: white;
+}
+
